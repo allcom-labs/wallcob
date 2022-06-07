@@ -1,4 +1,4 @@
 # wallcob
 Software de Gestão de Carteiras de Cobrança
 
-0.0.46
+0.0.47
